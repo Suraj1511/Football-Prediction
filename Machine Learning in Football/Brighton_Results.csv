@@ -1,0 +1,39 @@
+Matchday,Venue,Opponent,ELO,Venue_LE,Result
+1,Away,Burnley,1705,0,W
+2,Home,Watford,1669,1,W
+3,Home,Everton,1767,1,D
+4,Away,Brentford,1668,0,W
+5,Home,Leicester City,1798,1,L
+6,Away,Crystal Palace,1689,0,W
+7,Home,Arsenal,1863,1,L
+8,Away,Norwich City,1651,0,W
+9,Home,Manchester City,2009,1,D
+10,Away,Liverpool,1936,0,W
+11,Home,Newcastle Utd,1721,1,D
+12,Away,Aston Villa,1743,0,W
+13,Home,Leeds United,1780,1,L
+14,Away,West Ham,1807,0,L
+15,Away,Southampton,1697,0,W
+16,Home,Tottenham,1827,1,L
+17,Home,Wolves,1735,1,D
+18,Away,Manchester Utd,1922,0,L
+19,Home,Brentford,1668,1,W
+20,Away,Chelsea,1919,0,L
+21,Away,Everton,1767,0,D
+22,Home,Crystal Palace,1689,1,L
+23,Away,Leicester City,1798,0,L
+24,Home,Chelsea,1919,1,L
+25,Away,Watford,1669,0,W
+26,Home,Burnley,1705,1,D
+27,Home,Aston Villa,1743,1,W
+28,Away,Newcastle Utd,1721,0,W
+29,Home,Liverpool,1936,1,W
+30,Away,Manchester City,2009,0,D
+31,Home,Norwich City,1651,1,W
+32,Away,Arsenal,1863,0,L
+33,Away,Tottenham,1827,0,L
+34,Home,Southampton,1697,1,D
+35,Away,Wolves,1735,0,D
+36,Home,Manchester Utd,1922,1,L
+37,Away,Leeds United,1780,0,L
+38,Home,West Ham,1807,1,L
